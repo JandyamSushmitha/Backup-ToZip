@@ -1,13 +1,13 @@
 # Abstract:
 
-🗂️ Backup to ZIP
+## 🗂️ Backup to ZIP
 
-📌 Introduction
+#📌 Introduction
 
 In today’s data-driven world, ensuring the safety, accessibility, and integrity of digital files is more crucial than ever. Whether you're a student, small business owner, or casual user, the risk of losing data due to system failures, accidental deletions, or cyber threats is real.
 Backup to ZIP is a lightweight, cross-platform, and automated solution that compresses files and folders into password-protected ZIP archives, enabling efficient backup and recovery without needing complex or expensive tools.
 
-🚩 Problem Statement
+#🚩 Problem Statement
 
 Many existing backup solutions are:
 
@@ -37,7 +37,7 @@ Supports scheduling and versioning
 
 Preserves directory structures and metadata
 
-🛠 Tools & Technologies Used
+#🛠 Tools & Technologies Used
 
 Tool/Library	Purpose
 
@@ -48,7 +48,7 @@ schedule / APScheduler	Backup automation and task scheduling
 pyAesCrypt / cryptography	AES encryption for ZIP files
 tkinter (optional)	GUI support for user interaction
 
-🧩 Submodules
+#🧩 Submodules
 
 1. 📁 Target Selector
 2. Select files/folders to back up
@@ -81,7 +81,7 @@ Extracts full or partial backup
 
 One-click restore functionality
 
-🔄 Project Workflow
+#🔄 Project Workflow
 text
 Copy
 Edit
@@ -90,7 +90,7 @@ Edit
                                               [Log & Schedule Backup Tasks]
                                                            ↓
                                                 [Restore from ZIP when needed]
-✅ Expected Output
+#✅ Expected Output
 
 Compressed .zip backup file saved in a secure location.
 
