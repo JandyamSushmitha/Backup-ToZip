@@ -5,7 +5,7 @@
 #📌 Introduction
 
 In today’s data-driven world, ensuring the safety, accessibility, and integrity of digital files is more crucial than ever. Whether you're a student, small business owner, or casual user, the risk of losing data due to system failures, accidental deletions, or cyber threats is real.
-Backup to ZIP is a lightweight, cross-platform, and automated solution that compresses files and folders into password-protected ZIP archives, enabling efficient backup and recovery without needing complex or expensive tools.
+Backup to ZIP is a lightweight, cross-platform, and automated solution that compresses files and folders into password-protected ZIP archives, enabling efficient backup and recovery without needing complex or expensive tools. 
 
 #🚩 Problem Statement
 
