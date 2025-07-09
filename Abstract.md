@@ -113,3 +113,10 @@ Educational purposes
 Small business data safety
 
 With features like automation, encryption, compression, and cross-platform support, this project brings enterprise-like backup reliability to smaller, resource-constrained environments.
+
+
+
+JANDYAM SUSHMITHA
+222U1A3720
+jandyamsushmitha@gmail.com
+9848134313
